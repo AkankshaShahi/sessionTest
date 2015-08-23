@@ -1,0 +1,9 @@
+D:\akanksha\CRUDtraining\BLL\bin\Debug\BLL.dll
+D:\akanksha\CRUDtraining\BLL\bin\Debug\BLL.pdb
+D:\akanksha\CRUDtraining\BLL\bin\Debug\DAL.dll
+D:\akanksha\CRUDtraining\BLL\bin\Debug\Entity.dll
+D:\akanksha\CRUDtraining\BLL\bin\Debug\DAL.pdb
+D:\akanksha\CRUDtraining\BLL\bin\Debug\Entity.pdb
+D:\akanksha\CRUDtraining\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\akanksha\CRUDtraining\BLL\obj\Debug\BLL.dll
+D:\akanksha\CRUDtraining\BLL\obj\Debug\BLL.pdb

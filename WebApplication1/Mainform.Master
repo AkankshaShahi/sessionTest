@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Mainform.master.cs" Inherits="WebApplication1.Mainform" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+       
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="headercontent">
+        <div id="horizontalmenu">
+            <ul>
+                <li><a href="student.aspx" id="lnkstud"  >Student</a></li>
+                <li><a href="StudentView.aspx" id="lnkstudview"  >Student View</a></li>
+            </ul>
+        </div>
+            </div>
+        <br />
+        <br />
+        <div class="innercontent">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

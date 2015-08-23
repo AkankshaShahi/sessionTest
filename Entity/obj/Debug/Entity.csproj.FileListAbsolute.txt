@@ -1,0 +1,4 @@
+D:\akanksha\CRUDtraining\Entity\bin\Debug\Entity.dll
+D:\akanksha\CRUDtraining\Entity\bin\Debug\Entity.pdb
+D:\akanksha\CRUDtraining\Entity\obj\Debug\Entity.dll
+D:\akanksha\CRUDtraining\Entity\obj\Debug\Entity.pdb

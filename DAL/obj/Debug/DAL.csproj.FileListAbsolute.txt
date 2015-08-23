@@ -1,0 +1,7 @@
+D:\akanksha\CRUDtraining\DAL\bin\Debug\DAL.dll
+D:\akanksha\CRUDtraining\DAL\bin\Debug\DAL.pdb
+D:\akanksha\CRUDtraining\DAL\bin\Debug\Entity.dll
+D:\akanksha\CRUDtraining\DAL\bin\Debug\Entity.pdb
+D:\akanksha\CRUDtraining\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\akanksha\CRUDtraining\DAL\obj\Debug\DAL.dll
+D:\akanksha\CRUDtraining\DAL\obj\Debug\DAL.pdb
